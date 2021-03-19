@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loki1204
+- 👋 Hi, I’m Lokesh
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Web Development
 
