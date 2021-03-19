@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lokesh
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Development
 
 <!---
 Loki1204/Loki1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
